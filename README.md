@@ -18,7 +18,7 @@ For more details please viste [Paper Resource](https://www.techscience.com/cmc/2
 * Genetic Frog Leaping Algorithm for Text Document Clustering scientific paper that describe the project in details.
 * Genetic Frog Leaping Algorithm for Text Document Clustering scientific presentation that describe the project.
 
-In addition, you can find presentation on [SlideShare](https://www.slideshare.net/Lubna_Alhenaki/a-geneticfrog-leaping-algorithm-for-text-document-clustering).
+In addition, you can find presentation at [SlideShare](https://www.slideshare.net/Lubna_Alhenaki/a-geneticfrog-leaping-algorithm-for-text-document-clustering).
 
 
 
